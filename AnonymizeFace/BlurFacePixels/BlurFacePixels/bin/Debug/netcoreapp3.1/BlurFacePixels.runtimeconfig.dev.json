@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/adele/.dotnet/store/|arch|/|tfm|",
+      "/Users/adele/.nuget/packages"
+    ]
+  }
+}

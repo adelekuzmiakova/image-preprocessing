@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{4929D79F-B870-430D-A6E7-90C6A11AE382}|Default">
+  <MonoDevelop.Ide.ItemProperties.BlurDetection PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlurDetection/Program.cs">
+    <Files>
+      <File FileName="BlurDetection/Program.cs" Line="10" Column="18" />
+      <File FileName="BlurDetection/ImageTransformation.cs" Line="12" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlurDetection" expanded="True">
+            <Node name="BlurDetection" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
